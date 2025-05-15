@@ -57,7 +57,7 @@ Sou um desenvolvedor Back-End apaixonado por tecnologia, com foco em entregar so
 <h2>📊 GitHub Insights</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DannyPrad&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradoddev&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradoddev&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" />
 </p>
 
