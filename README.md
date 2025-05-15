@@ -2,21 +2,22 @@
 <h1 align="center">🔥 Daniel Prado — Backend Engineer</h1>
 
 <p align="center">
-  <b>Back-End Developer | Java & Node.js Expert | Tech-Driven Problem Solver</b><br/>
-  <i>Transformando ideias em soluções robustas com código limpo, escalável e performático.</i>
+  <b>Back-End Developer | Java & Node.js | Tech-Driven Problem Solver</b><br/>
+  <i>Desenvolvedor Back-End | Java & Node.js | Resolvo problemas com tecnologia</i>
 </p>
 
 ---
 
-<h2>🚀 Sobre mim</h2>
+<h2>🚀 About Me | Sobre Mim</h2>
 
 <p>
-Sou um desenvolvedor Back-End apaixonado por tecnologia, com foco em entregar soluções sólidas e eficientes. Tenho experiência com <strong>Java</strong> e <strong>Node.js</strong>, além de forte domínio em <strong>boas práticas, versionamento de código</strong> e <strong>arquiteturas escaláveis</strong>. Minha missão? Me tornar referência global no desenvolvimento de software e construir produtos que impactam o mundo.
+I'm a passionate back-end developer focused on building solid and scalable solutions using <strong>Java</strong> and <strong>Node.js</strong>. I strive for clean code, good practices, and impactful software. My mission is to become a global reference in software development.<br/><br/>
+Sou um desenvolvedor back-end apaixonado por tecnologia, com foco em entregar soluções sólidas e escaláveis usando <strong>Java</strong> e <strong>Node.js</strong>. Busco escrever código limpo, aplicar boas práticas e construir software que gera impacto. Minha missão é me tornar referência global no desenvolvimento de software.
 </p>
 
 ---
 
-<h2>🧠 Tech Stack Principal</h2>
+<h2>🧠 Tech Stack | Tecnologias</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" />
@@ -27,26 +28,26 @@ Sou um desenvolvedor Back-End apaixonado por tecnologia, com foco em entregar so
 
 ---
 
-<h2>📈 Em constante evolução</h2>
+<h2>📈 Always Evolving | Em Constante Evolução</h2>
 
 <table>
   <tr>
-    <td><strong>🔧 Atualmente aprendendo</strong></td>
-    <td><strong>🎯 Próximos passos</strong></td>
+    <td><strong>🔧 Currently Learning<br/>Atualmente Aprendendo</strong></td>
+    <td><strong>🎯 Next Steps<br/>Próximos Passos</strong></td>
   </tr>
   <tr>
     <td>
       <ul>
-        <li>Java Avançado</li>
+        <li> Java </li>
         <li>Node.js Patterns</li>
-        <li>Boas práticas com Git</li>
+        <li>Git Best Practices | Boas práticas com Git</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Clean Architecture</li>
-        <li>Princípios SOLID</li>
-        <li>Testes automatizados (Jest, JUnit)</li>
+        <li>SOLID Principles | Princípios SOLID</li>
+        <li>Automated Testing (Jest, JUnit) | Testes Automatizados</li>
       </ul>
     </td>
   </tr>
@@ -54,7 +55,7 @@ Sou um desenvolvedor Back-End apaixonado por tecnologia, com foco em entregar so
 
 ---
 
-<h2>📊 GitHub Insights</h2>
+<h2>📊 GitHub Insights | Métricas GitHub</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pradoddev&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" />
@@ -63,7 +64,7 @@ Sou um desenvolvedor Back-End apaixonado por tecnologia, com foco em entregar so
 
 ---
 
-<h2>📬 Vamos nos conectar?</h2>
+<h2>📬 Let's Connect | Vamos nos Conectar</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielpradoo/" target="_blank">
@@ -76,8 +77,8 @@ Sou um desenvolvedor Back-End apaixonado por tecnologia, com foco em entregar so
 </p>
 
 <p align="center">
- 
+
 
 ---
 
-<p align="center"><i>“Back-end elegante não aparece — é sentido. E esse é o meu propósito.”</i></p>
+<p align="center"><i>“Elegant back-end is not seen — it's felt. That’s my purpose.”<br/>“Back-end elegante não aparece — é sentido. Esse é o meu propósito.”</i></p>
